@@ -1,4 +1,6 @@
 primer algoritmo
-crear un repositorio 
+entrar a la plataforma githut
+crear un repositorio
+mover el repositorio a la carpeta githut 
 clonar el repositorio 
 subir el repositorio
